@@ -84,7 +84,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![WhatsApp Image 2025-09-21 at 23 36 05_2ef9fb3f](https://github.com/user-attachments/assets/20cd933d-5710-42a4-88e1-471813d059fa)
+<img width="977" height="586" alt="image" src="https://github.com/user-attachments/assets/b083921c-2afe-422e-b00f-db00eda3a0cc" />
+
 
 ## RESULT:
  The lexical analyzer is implemented using lex and the output is verified.
